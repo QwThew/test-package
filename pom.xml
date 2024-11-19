@@ -6,7 +6,8 @@
 
     <groupId>dev.thew</groupId>
     <artifactId>test-package</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
+    <packaging>jar</packaging>
 
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
